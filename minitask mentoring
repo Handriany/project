@@ -1,0 +1,7 @@
+// button 1
+button pin = 16;
+
+// button butuh input pull up
+// ditekan = High
+// tidak ditekan = Low
+// jika button1 di tekan led1 & led 2 aktif
